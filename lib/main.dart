@@ -80,7 +80,7 @@ class BasicsPage extends StatelessWidget {
                           thickness: 2,
                         ),
                         Container(
-                          margin: EdgeInsets.all(20),
+                          margin: const EdgeInsets.all(20),
                           height: 200,
                           width: size.width,
                           decoration: const BoxDecoration(
